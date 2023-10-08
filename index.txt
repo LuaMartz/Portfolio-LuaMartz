@@ -1,240 +1,121 @@
-vCard - Personal Portfolio
-
-# sidebar
-
-alt = Richard hanrick
-Richard hanrick
-Web developer
+# Barra lateral
+alt = Luisa Maria
+Luisa Maria
+Full Stack Web Developer | UX/UI Designer
 
 Show Contacts
 
 Email
-richard@example.com
+luisamartinez030503@gmail.com
 
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
+Telephone
+(+57) 318 805 2055
 
 Location
-Sacramento, California, USA
+Bogotá DC, Colombia
 
-# navbar
+LinkedIn
+https://www.linkedin.com/in/luamartz
 
-About
-Resume
-Portfolio
-Blog
-Contact
-
-# about
-
-About me
-
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
-
-## service
-
-What i'm doing
-
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
-
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
-
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
-
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
-
-
-## testimonials
-
-Testimonials
-
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-
-## clients
-
-Clients
-
-alt = client logo
-
-
-
-# resume
-
-Resume
-
-Education
-
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
-
-Experience
-
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
-
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-My skills
-
-Web design
-80%
-Graphic design
-70%
-Branding
-90%
-WordPress
-50%
-
-
-
-# portfolio
+GitHub
+https://github.com/LuaMartz
 
 Portfolio
+https://luamartz.github.io/Portfolio-LuaMartz/
+# Barra de navegación
 
-All
-Web design
-Applications
-Web development
-
-Select category
-All
-Web design
-Applications
-Web development
-
-alt = finance
-Finance
-Web development
-
-alt = orizon
-Orizon
-Web development
-
-alt = fundo
-Fundo
-Web design
-
-alt = brawlhalla
-Brawlhalla
-Applications
-
-alt = dsm.
-DSM.
-Web design
-
-alt = metaspark
-MetaSpark
-Web design
-
-alt = summary
-Summary
-Web development
-
-alt = task manager
-Task Manager
-Applications
-
-alt = arrival
-Arrival
-Web development
-
-
-
-# blog
-
+Acerca de Mí
+Experiencia
+Educación
+Habilidades
+Portafolio
 Blog
+Contacto
 
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+# Acerca de Mí
 
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+Sobre mí
 
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+Soy un Desarrollador Full Stack y Diseñador UX/UI con una pasión por la creación de interfaces atractivas y funcionales que brinden una experiencia de usuario excepcional. Mi objetivo es aplicar mi experiencia en desarrollo tanto en el Frontend como en el Backend para crear aplicaciones web y móviles excepcionales. Estoy buscando un entorno enriquecedor en el que pueda contribuir con mi pasión por el diseño y la tecnología.
 
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+# Experiencia
 
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Fundación Educamás - Acuerdo Conastem - Scrum Master, Diseñador Web y Desarrollador
+SEPTIEMBRE 2023 - ACTUALIDAD | BOGOTÁ
 
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+En mi rol como Scrum Master, Diseñador y Desarrollador, lidero un equipo en la creación de una aplicación de organización de bases de datos utilizando Django. Mi función principal es coordinar el proyecto y asegurarme de que se sigan las metodologías ágiles de Scrum. Además, diseñé y desarrollé características clave de la aplicación para gestionar eficazmente la información de la empresa Conastem. Esta colaboración multidisciplinaria ha mejorado la eficiencia operativa y la accesibilidad de los datos.
 
+Chromatic Cakes - Diseñador de Branding
+SEPTIEMBRE 2023 - ACTUALIDAD | BOGOTÁ
 
+Actualmente, para la startup Chromatic Cakes, estoy creando un manual de marca que refleja la identidad única de la empresa y asegurará la consistencia de la marca en todas sus comunicaciones.
 
-# contact
+Laboratorio de Impresión 3D del Centro para la Industria de la Comunicación Gráfica, Servicio Nacional de Aprendizaje - Diseñador y Desarrollador Web
+AGOSTO 2023 - ACTUALIDAD | BOGOTÁ
 
-Contact
+Lideré el diseño y desarrollo de un sitio web de WordPress para el Laboratorio de Impresión 3D de Cenigraf. Mi responsabilidad principal fue crear una plataforma que destacara la tecnología 3D y sus aplicaciones. Diseñé una interfaz atractiva y funcional para mostrar proyectos e información relevante. Además, implementé la capacidad de solicitar servicios de impresión en 3D directamente desde el sitio web, lo que mejoró la eficiencia de la comunicación con los clientes y aumentó la visibilidad del laboratorio.
 
-Contact Form
+Universidad Nacional de Colombia - Acuerdo con el Ministerio de Tecnologías de la Información y las Comunicaciones - Todos a la U Program - Directora y Animadora Digital
+JUNIO 2023 - ACTUALIDAD | BOGOTÁ
 
-Full name
-Email address
-Your Message
+En este proyecto, estoy involucrada en el desarrollo completo y producción de un cortometraje animado llamado “Harmonix” utilizando técnicas 2D y 3D. Mi rol abarca la dirección del proyecto, la creación de animaciones y la coordinación de los equipos de producción. Estamos trabajando en una narrativa única que combina estas técnicas para contar una historia cautivadora.
 
-Send Message
+Centro para la Industria de la Comunicación Gráfica, Servicio Nacional de Aprendizaje - Co-Líder de Proyecto, Asistente de Producción, Animadora Digital y Desarrolladora Web
+ABRIL 2023 - ACTUALIDAD | BOGOTÁ
+
+Como Asistente de Producción, Animadora y Líder de Proyecto Transmedia "La Poderosa Anansi", una serie animada transmedial de 5 capítulos cada uno de 5 a 7 minutos, con la implementación de plataformas web interactivas, dinámicas y transmediales. Gestiono las tareas de producción y lidero el equipo de animación. Mi función incluye la coordinación de recursos, la creación de animaciones 2D y 3D, y la dirección del proyecto en general, cooperación en el desarrollo de la página web en Wordpress. Estamos utilizando técnicas innovadoras para dar vida a esta emocionante serie multimedia animada que involucra audiencias de todas las edades.
+
+RenewBank - Diseñadora de Branding, Diseñadora UX/UI
+JULIO 2022 - AGOSTO 2022 | BOGOTÁ
+
+En este rol, me enfoqué en diseñar la experiencia de usuario (UX/UI) de una página web para la startup Renewbank. Mis responsabilidades incluyeron crear un diseño atractivo y funcional que mejorara la interacción del usuario. Implementé estrategias de navegación intuitiva, seleccioné paletas de colores efectivas y diseñé interfaces que aumentaron el tiempo de permanencia del usuario en el sitio web. Mi trabajo resultó en una experiencia en línea mejorada para los clientes y un mayor reconocimiento de la marca.
+
+# Educación
+
+Southern New Hampshire University - Título de Licenciatura en Marketing con Énfasis en Marketing Digital
+MAYO 2022 - ACTUALIDAD | MANCHESTER, ESTADOS UNIDOS
+
+Estudio una Licenciatura en Marketing con énfasis en Marketing Digital, adquiriendo habilidades estratégicas y técnicas para diseñar campañas efectivas centradas en el entorno digital. He desarrollado la capacidad de crear estrategias de marketing en línea que generan un mayor compromiso y una audiencia más amplia.
+
+Centro para la Industria de la Comunicación Gráfica, Servicio Nacional de Aprendizaje - Tecnólogo en Animación Digital
+ABRIL 2022 - ACTUALIDAD | BOGOTÁ
+
+Estudio Tecnología en Animación Digital, adquiriendo habilidades en la creación de animaciones 2D y 3D. Estas habilidades me permiten agregar elementos visuales atractivos a mis proyectos digitales, lo que es especialmente valioso para crear experiencias de usuario e interfaces inmersivas.
+
+Instituto Colombiano para la Evaluación de la Educación - Bachiller Académico
+NOVIEMBRE 2021 - DICIEMBRE 2021 | BOGOTÁ
+
+Título de Bachiller Académico, marcando el inicio de mi carrera educativa. Una sólida formación académica ha sentado las bases para mi capacidad de aprender y adaptarme de manera efectiva en diversos entornos.
+
+# Educación Complementaria
+
+Program Yourself Academy,
+
+ Fundación Educamás, Simplon Grand Ouest - Bootcamp de Desarrollo Full Stack
+MAYO 2023 - ACTUALIDAD | BOGOTÁ
+
+En este bootcamp actual, estoy fortaleciendo mis habilidades en desarrollo Full Stack, incluyendo habilidades en bases de datos, TypeScript, Angular CLI, AngularJS, Node.js, Express.js, Django, Django REST Framework, MySQL, Fast API, Python, Git, HTML y CSS.
+
+Universidad Nacional de Colombia - Acuerdo con el Ministerio de Tecnologías de la Información y las Comunicaciones - Programa Todos a la U - Diploma de Animación Digital Intermedia
+JUNIO 2023 - ACTUALIDAD | BOGOTÁ
+
+Participo en este diploma en la Universidad Nacional de Colombia, donde estoy adquiriendo conocimientos intermedios en el campo de la animación digital, lo que me permite ampliar mis habilidades creativas y técnicas.
+
+Diploma de Desarrollo Full Stack con énfasis en Desarrollo de Aplicaciones
+MAYO 2022 - NOVIEMBRE 2022 | BOGOTÁ
+
+Completé con éxito este curso de diploma que se centró en el desarrollo Full Stack, especialmente en la construcción de aplicaciones. A través de este programa, adquirí habilidades cruciales en desarrollo web y la creación de aplicaciones funcionales.
+
+Egg Corporation - Bootcamp de Desarrollo Full Stack
+ABRIL 2022 - FEBRERO 2023 | BOGOTÁ
+
+Participé en un riguroso bootcamp de Egg Corporation, donde desarrollé habilidades completas en desarrollo web Full Stack, lo que me permitió comprender y aplicar tecnologías clave para crear aplicaciones web robustas.
+
+# Habilidades
+
+- Lenguajes: HTML, CSS, JavaScript, Python, Java
+- Frameworks: React, Angular, Django, Node.js
+- Herramientas: Git, Jira Software
+- Diseño: Figma, Adobe Creative Cloud, Blender, Maya
+- Metodologías: Metodologías ágiles (Scrum), colaboración en equipos multidisciplinarios
+- Idiomas: Inglés (B2), Español nativo
