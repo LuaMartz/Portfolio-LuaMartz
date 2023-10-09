@@ -114,27 +114,45 @@ for (let i = 0; i < filterBtn.length; i++) {
 }
 
 
+// Contact form variables
+const form = document.querySelector("#contact-form");
 
-// contact form variables
-const form = document.querySelector("[data-form]");
-const formInputs = document.querySelectorAll("[data-form-input]");
-const formBtn = document.querySelector("[data-form-btn]");
+form.addEventListener("submit", function (e) {
+  e.preventDefault();
 
-// add event to all form input field
+  const formData = new FormData(form);
+
+  fetch("YOUR_API_ENDPOINT", {
+    method: "POST", // Or "PUT", "GET", etc. depending on the API
+    body: formData,
+  })
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error("Network response was not ok");
+      }
+      return response.json(); // Parse the response if it's in JSON format
+    })
+    .then((data) => {
+      // Handle the response from the external platform here
+      console.log("Response from external platform:", data);
+      // You can update the UI or take any further actions based on the response.
+    })
+    .catch((error) => {
+      console.error("Error:", error);
+    });
+});
+
+// Add event to all form input fields for validation
 for (let i = 0; i < formInputs.length; i++) {
   formInputs[i].addEventListener("input", function () {
-
-    // check form validation
+    // Check form validation
     if (form.checkValidity()) {
       formBtn.removeAttribute("disabled");
     } else {
       formBtn.setAttribute("disabled", "");
     }
-
   });
 }
-
-
 
 // page navigation variables
 const navigationLinks = document.querySelectorAll("[data-nav-link]");
@@ -156,4 +174,16 @@ for (let i = 0; i < navigationLinks.length; i++) {
     }
 
   });
+}
+
+function abrirPopup(url) {
+  // Configura las dimensiones y otras propiedades de la ventana emergente
+  var width = auto;
+  var height = auto;
+  var left = (window.innerWidth - width) / 2;
+  var top = (window.innerHeight - height) / 2;
+  var opciones = 'width=' + width + ',height=' + height + ',left=' + left + ',top=' + top;
+
+  // Abre la ventana emergente con la URL proporcionada
+  window.open(url, '_blank', opciones);
 }

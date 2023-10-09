@@ -38,6 +38,21 @@ Sobre mí
 
 Soy un Desarrollador Full Stack y Diseñador UX/UI con una pasión por la creación de interfaces atractivas y funcionales que brinden una experiencia de usuario excepcional. Mi objetivo es aplicar mi experiencia en desarrollo tanto en el Frontend como en el Backend para crear aplicaciones web y móviles excepcionales. Estoy buscando un entorno enriquecedor en el que pueda contribuir con mi pasión por el diseño y la tecnología.
 
+What I do
+1. **Desarrollo Fullstack y Desarrollo Frontend**:
+   - Ofrezco desarrollo completo de aplicaciones web y móviles, desde el frontend hasta el backend, utilizando una variedad de tecnologías, como HTML, CSS, JavaScript, React, Angular y Vue.js. Mi enfoque se centra en crear interfaces atractivas y amigables para el usuario.
+
+2. **Diseño UX/UI y Branding**:
+   - Me especializo en la creación de excepcionales experiencias de usuario e interfaces de usuario, asegurando la usabilidad y el atractivo estético. Además, destaco en la creación de identidades de marca integrales, incluyendo diseño de logotipos y guías de estilo para mantener la coherencia de la marca.
+
+3. **Animación Digital y Motion Graphics**:
+   - Doy vida a contenido digital con animaciones 2D y 3D y cautivadores motion graphics, mejorando la narración visual en diversos contextos, desde cortometrajes hasta materiales promocionales.
+
+4. **Ilustración, Vectorización y Marketing Digital**:
+   - Ofrezco ilustraciones personalizadas y servicios de vectorización para aplicaciones impresas y web. Además, brindo experiencia en marketing digital, incluyendo SEO, publicidad en redes sociales y email marketing, para promover productos y servicios en línea de manera efectiva.
+
+Esta descripción concisa resalta tus habilidades y servicios clave en español.
+
 # Experiencia
 
 Fundación Educamás - Acuerdo Conastem - Scrum Master, Diseñador Web y Desarrollador
@@ -60,6 +75,7 @@ JUNIO 2023 - ACTUALIDAD | BOGOTÁ
 
 En este proyecto, estoy involucrada en el desarrollo completo y producción de un cortometraje animado llamado “Harmonix” utilizando técnicas 2D y 3D. Mi rol abarca la dirección del proyecto, la creación de animaciones y la coordinación de los equipos de producción. Estamos trabajando en una narrativa única que combina estas técnicas para contar una historia cautivadora.
 
+En la Universidad Nacional, de octubre de 2022 a noviembre de 2022, desarrollé un aplicativo de tienda virtual. Puedes ver el resultado final en [este enlace](https://youtu.be/A5OMNmByC1I?si=Dx2MGhYlUZdIaUi-). En este proyecto, utilicé tecnologías como Kotlin, Android Studio, JavaScript y Java para crear una experiencia de compra en línea. Además, trabajé en el diseño de la interfaz utilizando Adobe XD y en la implementación de mejoras continuas para optimizar la funcionalidad del aplicativo.
 Centro para la Industria de la Comunicación Gráfica, Servicio Nacional de Aprendizaje - Co-Líder de Proyecto, Asistente de Producción, Animadora Digital y Desarrolladora Web
 ABRIL 2023 - ACTUALIDAD | BOGOTÁ
 
